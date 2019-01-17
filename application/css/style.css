@@ -1,7 +1,7 @@
 /*
 Theme Name: Mavia 
 Theme URI: http://www.ansonika.com/mavia/
-Author: Ansonika
+Author: Sunusi Mohd Inuwa
 Author URI: http://themeforest.net/user/Ansonika/
 
 [Table of contents] 
@@ -34,7 +34,7 @@ html * {
 }
 
 body {
-	background: url(../../img/bg_admission.jpg) center center no-repeat fixed;
+	background: url(../img/bg.jpg) center center no-repeat fixed;
 	font-size: 16px;
 	line-height: 1.5;
 	font-family: "Roboto Condensed", Arial, sans-serif;
@@ -763,11 +763,11 @@ textarea.form-control {
 input.form-control:focus,
 select.form-control:focus,
 textarea.form-control:focus {
-	border-color: #777;
+	border-color: #ffc107;
 	outline: 0;
 	-webkit-box-shadow: none;
 	box-shadow: none;
-	color: #555;
+	color: #0e136d;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }

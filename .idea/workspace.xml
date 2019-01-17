@@ -3,7 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="44a178c6-3475-4cdd-99f8-af1da2824370" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/about_color_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/about_color_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/about_color_4.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/application/admission.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/contacts_color_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/contacts_color_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/contacts_color_4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/application/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/img/apple-touch-icon-114x114-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/img/apple-touch-icon-144x144-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/img/apple-touch-icon-57x57-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/img/apple-touch-icon-72x72-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/img/devices_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/img/logo_2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/questionare_version.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/reservation_version.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/review_version.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/student/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/student/init.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/student/view/animations.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/student/view/autocomplete.php" beforeDir="false" />
@@ -97,83 +118,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/student/view/dashboard.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="configuration.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configuration.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer-script.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/student/view/footer-script.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="left-sidebar.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/student/view/left-sidebar.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-106">
-              <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="-3267">
+              <caret line="124" column="71" selection-start-line="124" selection-start-column="71" selection-end-line="124" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/job/functions/functions.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="init.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/student/init.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header-script.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/student/view/header-script.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+            <state relative-caret-position="340">
+              <caret line="769" column="12" lean-forward="true" selection-start-line="769" selection-start-column="12" selection-end-line="769" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -249,7 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/job/js/maps.js" />
         <option value="$PROJECT_DIR$/job/footer.php" />
         <option value="$PROJECT_DIR$/job/contact.php" />
         <option value="$PROJECT_DIR$/job/how-to-apply.php" />
@@ -300,6 +257,7 @@
         <option value="$PROJECT_DIR$/student/view/left-sidebar.php" />
         <option value="$PROJECT_DIR$/application/login.php" />
         <option value="$PROJECT_DIR$/application/index.php" />
+        <option value="$PROJECT_DIR$/application/css/style.css" />
       </list>
     </option>
   </component>
@@ -431,18 +389,18 @@
       <workItem from="1545293346004" duration="4386000" />
       <workItem from="1545434145100" duration="585000" />
       <workItem from="1545507060310" duration="2394000" />
-      <workItem from="1547664954260" duration="8454000" />
+      <workItem from="1547664954260" duration="10989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277926000" />
+    <option name="totallyTimeSpent" value="280461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1911315" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1911315" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32876712" />
@@ -472,9 +430,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/job/images/job-category-02.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/job/images/job-category-04.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -634,13 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configuration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/student/view/.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9">
@@ -663,20 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/job/functions/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/student/view/dashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/student/init.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -691,10 +625,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/student/view/footer-script.php">
+    <entry file="file://$PROJECT_DIR$/application/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        <state relative-caret-position="-106">
+          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/functions/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -705,17 +646,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/login.php">
+    <entry file="file://$PROJECT_DIR$/student/view/footer-script.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-106">
-          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+        <state relative-caret-position="221">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/view/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="-3267">
+          <caret line="124" column="71" selection-start-line="124" selection-start-column="71" selection-end-line="124" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="769" column="12" lean-forward="true" selection-start-line="769" selection-start-column="12" selection-end-line="769" selection-end-column="12" />
         </state>
       </provider>
     </entry>
