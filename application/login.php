@@ -38,9 +38,7 @@
 	
 	<div id="login">
 		<aside>
-			<figure>
-				<a href="index.php"><img src="img/logo.png" width="149" height="42" data-retina="true" alt=""></a>
-			</figure>
+			
 			  <form>
 				<!--<div class="access_social">
 					<a href="#0" class="social_bt facebook">Login with Facebook</a>
