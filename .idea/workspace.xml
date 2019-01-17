@@ -3,18 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="44a178c6-3475-4cdd-99f8-af1da2824370" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/blog-post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/blog.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/cart-1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/cart-2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/cart-3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index-2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index-3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index-4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index-5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/video/intro.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/video/intro.ogv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/admission.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/student/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/student/init.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/student/view/animations.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/student/view/autocomplete.php" beforeDir="false" />
@@ -144,11 +133,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="-106">
               <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
             </state>
           </provider>
         </entry>
@@ -251,7 +249,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jobdash/pages-contact.html" />
         <option value="$PROJECT_DIR$/job/js/maps.js" />
         <option value="$PROJECT_DIR$/job/footer.php" />
         <option value="$PROJECT_DIR$/job/contact.php" />
@@ -302,6 +299,7 @@
         <option value="$PROJECT_DIR$/student/init.php" />
         <option value="$PROJECT_DIR$/student/view/left-sidebar.php" />
         <option value="$PROJECT_DIR$/application/login.php" />
+        <option value="$PROJECT_DIR$/application/index.php" />
       </list>
     </option>
   </component>
@@ -337,17 +335,6 @@
               <item name="edubits" type="b2602c69:ProjectViewProjectNode" />
               <item name="edubits" type="462c0819:PsiDirectoryNode" />
               <item name="application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edubits" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edubits" type="462c0819:PsiDirectoryNode" />
-              <item name="student" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edubits" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edubits" type="462c0819:PsiDirectoryNode" />
-              <item name="student" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -444,12 +431,12 @@
       <workItem from="1545293346004" duration="4386000" />
       <workItem from="1545434145100" duration="585000" />
       <workItem from="1545507060310" duration="2394000" />
-      <workItem from="1547664954260" duration="7465000" />
+      <workItem from="1547664954260" duration="8454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="276937000" />
+    <option name="totallyTimeSpent" value="277926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
@@ -485,9 +472,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/job/images/job-category-01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/job/images/job-category-02.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -723,8 +707,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="-106">
           <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
         </state>
       </provider>
     </entry>
