@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44a178c6-3475-4cdd-99f8-af1da2824370" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/student/init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/animations.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/autocomplete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/basic-table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/blank.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/breadcrumbs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/button.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/cards.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/carousel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/change-password.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/chartjs-charts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/checkboxes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/chips.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/collapsibles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/collections.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/color.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/contactus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/css-transitions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/student/view/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/data-table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/dropdown.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/feature-discovery.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/floating-action-button.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/form-layouts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/grid.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/helpers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/highlight.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/icons.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/lock.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/media-js.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/media.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/modals.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/pickers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/preloader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/pulse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/radio-buttons.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/range-slider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/range.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/reset.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/select.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/shadow.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/signup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/sweetalert.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/switches.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/tabs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/text-editor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/text-inputs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/toasts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/tooltip.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/typography.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/view/waves.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="edubits@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="edubits@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="edubits@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="edubits: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student/view/dashboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="configuration.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/configuration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer-script.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student/view/footer-script.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="left-sidebar.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/student/view/left-sidebar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/job/functions/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student/init.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header-script.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student/view/header-script.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http:/</find>
+      <find>type</find>
+      <find>select</find>
+      <find>check now</find>
+      <find>form</find>
+      <find>lock</find>
+      <find>forward</find>
+      <find>&amp;gt;</find>
+      <find>&lt;</find>
+      <find>&lt;!-- Mirr</find>
+      <find>&lt;!-- Mirrored from www.vasterad.com/themes/hireo/jobs-grid-layout-full-page-map.php by HTTrack Website Copier/3.x [XR&amp;CO'2014], Sat, 06 Oct 2018 18:06:49 GMT --&gt;</find>
+      <find>&lt;!-- Mirrored from www.vasterad.com/themes/hireo/browse-companies.phpp by HTTrack Website Copier/3.x [XR&amp;CO'2014], Sat, 06 Oct 2018 18:06:55 GMT --&gt;</find>
+      <find>&lt;/option&gt;</find>
+      <find>body {</find>
+      <find>font-family</find>
+      <find>body</find>
+      <find>html</find>
+      <find>family</find>
+      <find>sticky</find>
+      <find>book</find>
+      <find>../node_modules</find>
+      <find>.html</find>
+      <find>../assets</find>
+      <find>../plugins</find>
+      <find>.php</find>
+      <find>src=&quot;assets/images</find>
+      <find>src=&quot;assets/images/</find>
+      <find>href=&quot;plugins/</find>
+      <find>img</find>
+      <find>plugins/</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>../img/bg1.jpg</replace>
+      <replace>&gt;</replace>
+      <replace>&amp;lt;</replace>
+      <replace>../plugins</replace>
+      <replace>.php</replace>
+      <replace>assets</replace>
+      <replace>plugins</replace>
+      <replace />
+      <replace>imgPATH</replace>
+      <replace>src=&quot;&lt;?php echo imgPATH; ?&gt;</replace>
+      <replace>href=&quot;&lt;?php echo pluginPATH; ?&gt;</replace>
+      <replace>&quot;.cssPATH.&quot;</replace>
+      <replace>&quot;.pluginPATH.&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\wamp64\www\edubits\job</dir>
+      <dir>C:\wamp64\www\edubits\job\view</dir>
+      <dir>C:\wamp64\www\edubits\student\view</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/job/content.php" />
+        <option value="$PROJECT_DIR$/jobdash/pages-contact.html" />
+        <option value="$PROJECT_DIR$/job/js/maps.js" />
+        <option value="$PROJECT_DIR$/job/footer.php" />
+        <option value="$PROJECT_DIR$/job/contact.php" />
+        <option value="$PROJECT_DIR$/job/how-to-apply.php" />
+        <option value="$PROJECT_DIR$/job/footer-script.php" />
+        <option value="$PROJECT_DIR$/job/.htaccess" />
+        <option value="$PROJECT_DIR$/job/header-script.php" />
+        <option value="$PROJECT_DIR$/job/404.php" />
+        <option value="$PROJECT_DIR$/job/functions/functions.php" />
+        <option value="$PROJECT_DIR$/job/view/contact.php" />
+        <option value="$PROJECT_DIR$/job/view/index.php" />
+        <option value="$PROJECT_DIR$/job/view/how-to-apply.php" />
+        <option value="$PROJECT_DIR$/job/view/.php" />
+        <option value="$PROJECT_DIR$/job/intro-banner.php" />
+        <option value="$PROJECT_DIR$/job/header-container.php" />
+        <option value="$PROJECT_DIR$/job/index.php" />
+        <option value="$PROJECT_DIR$/job/view/404.php" />
+        <option value="$PROJECT_DIR$/job/view/apply.php" />
+        <option value="$PROJECT_DIR$/job/functions/class-select.php" />
+        <option value="$PROJECT_DIR$/job/init.php" />
+        <option value="$PROJECT_DIR$/job/view/header-container.php" />
+        <option value="$PROJECT_DIR$/job/view/intro-banner.php" />
+        <option value="$PROJECT_DIR$/job/view/home.php" />
+        <option value="$PROJECT_DIR$/job/view/all-jobs.php" />
+        <option value="$PROJECT_DIR$/job/sw_catche_pages.js" />
+        <option value="$PROJECT_DIR$/job/js/serviceWorker.js" />
+        <option value="$PROJECT_DIR$/job/sw_caches_pages.js" />
+        <option value="$PROJECT_DIR$/job/index.html" />
+        <option value="$PROJECT_DIR$/job/view/footer-script.php" />
+        <option value="$PROJECT_DIR$/job/view/header-script.php" />
+        <option value="$PROJECT_DIR$/functions/PDO_DBQuery_TEST.php" />
+        <option value="$PROJECT_DIR$/job/view/job-detail.php" />
+        <option value="$PROJECT_DIR$/SQLiteTest/index.php" />
+        <option value="$PROJECT_DIR$/job/css/style.css" />
+        <option value="$PROJECT_DIR$/student/view/dashboard.html" />
+        <option value="$PROJECT_DIR$/student/index.php" />
+        <option value="$PROJECT_DIR$/student/view/checkboxes.php" />
+        <option value="$PROJECT_DIR$/student/assets/css/theme/default.css" />
+        <option value="$PROJECT_DIR$/student/assets/css/theme/blue.css" />
+        <option value="$PROJECT_DIR$/student/view/.php" />
+        <option value="$PROJECT_DIR$/student/view/right-sidebar.php" />
+        <option value="$PROJECT_DIR$/student/view/footer.php" />
+        <option value="$PROJECT_DIR$/student/view/footer-script.php" />
+        <option value="$PROJECT_DIR$/student/view/header-script.php" />
+        <option value="$PROJECT_DIR$/job/functions/queries.php" />
+        <option value="$PROJECT_DIR$/configuration.php" />
+        <option value="$PROJECT_DIR$/student/view/dashboard.php" />
+        <option value="$PROJECT_DIR$/student/init.php" />
+        <option value="$PROJECT_DIR$/student/view/left-sidebar.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="edubits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edubits" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edubits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edubits" type="462c0819:PsiDirectoryNode" />
+              <item name="student" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edubits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edubits" type="462c0819:PsiDirectoryNode" />
+              <item name="student" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../funtua" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\edubits\student\assets" />
+      <recent name="C:\wamp64\www\edubits\SQLiteTest" />
+      <recent name="C:\wamp64\www\edubits\job\view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\edubits\student\view" />
+      <recent name="C:\wamp64\www\edubits\student" />
+      <recent name="C:\wamp64\www\edubits\job" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44a178c6-3475-4cdd-99f8-af1da2824370" name="Default" comment="" />
+      <created>1533406988754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533406988754</updated>
+      <workItem from="1533406990849" duration="8302000" />
+      <workItem from="1533550308513" duration="597000" />
+      <workItem from="1534012131330" duration="3793000" />
+      <workItem from="1534072308591" duration="573000" />
+      <workItem from="1534072900153" duration="1096000" />
+      <workItem from="1534074020957" duration="26997000" />
+      <workItem from="1534325199595" duration="589000" />
+      <workItem from="1538045055706" duration="1918000" />
+      <workItem from="1538288549302" duration="4109000" />
+      <workItem from="1538507240773" duration="2504000" />
+      <workItem from="1538815915729" duration="3659000" />
+      <workItem from="1538987649223" duration="2152000" />
+      <workItem from="1539008228455" duration="569000" />
+      <workItem from="1539011447738" duration="1025000" />
+      <workItem from="1539091388805" duration="1364000" />
+      <workItem from="1539343040623" duration="1170000" />
+      <workItem from="1540100949787" duration="5752000" />
+      <workItem from="1540124877142" duration="5313000" />
+      <workItem from="1540205806037" duration="3720000" />
+      <workItem from="1540708044347" duration="1453000" />
+      <workItem from="1540737652775" duration="2260000" />
+      <workItem from="1541067259204" duration="601000" />
+      <workItem from="1542486076669" duration="2714000" />
+      <workItem from="1542496484329" duration="18063000" />
+      <workItem from="1542570837106" duration="582000" />
+      <workItem from="1542578727448" duration="106710000" />
+      <workItem from="1543083920664" duration="7402000" />
+      <workItem from="1543105809476" duration="24208000" />
+      <workItem from="1543712442402" duration="1012000" />
+      <workItem from="1543755039523" duration="4380000" />
+      <workItem from="1543914160576" duration="2554000" />
+      <workItem from="1544046735905" duration="1185000" />
+      <workItem from="1544138167763" duration="583000" />
+      <workItem from="1544206734392" duration="222000" />
+      <workItem from="1544239050897" duration="593000" />
+      <workItem from="1544257557721" duration="785000" />
+      <workItem from="1544327690733" duration="2113000" />
+      <workItem from="1544607838010" duration="2039000" />
+      <workItem from="1544907249075" duration="1094000" />
+      <workItem from="1545167859033" duration="6352000" />
+      <workItem from="1545293346004" duration="4386000" />
+      <workItem from="1545434145100" duration="585000" />
+      <workItem from="1545507060310" duration="2394000" />
+      <workItem from="1547664954260" duration="5990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="275462000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1911315" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32879046" />
+      <window_info anchor="right" id="Database" order="3" weight="0.19189602" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="SQL Generator" order="7" weight="0.32903227" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32879046" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32903227" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/functions/PDO_DBQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/job-category-01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/job-category-02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/job-category-04.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/job-category-05.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/job-category-06.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/job-category-07.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/job-category-08.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/job-category-03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/featured-city-01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/company-logo-01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/company-logo-02.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/company-logo-03.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/company-logo-03a.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/company-logo-04.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/images/company-logo-05.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="das://f48fa613-5963-4b02-9c96-1cc7321d7b2b/schema/edubits/table/job_tags" />
+    <entry file="das://f48fa613-5963-4b02-9c96-1cc7321d7b2b/schema/edubits/table/bits_clients" />
+    <entry file="file://$PROJECT_DIR$/SQLiteTest/index.php" />
+    <entry file="file://$PROJECT_DIR$/job/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="17142" selection-start-line="17142" selection-end-line="17142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/view/header-container.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="80" selection-start-line="43" selection-start-column="80" selection-end-line="43" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/view/job-detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="116" column="20" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/html/login.html" />
+    <entry file="file://$PROJECT_DIR$/student/view/dashboard.html" />
+    <entry file="file://$PROJECT_DIR$/SQLiteTest/functions/queries.php" />
+    <entry file="file://$PROJECT_DIR$/student/functions/queries.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/view/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/view/all-jobs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="36" column="50" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/functions/functions.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/view/checkboxes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/assets/css/theme/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14840">
+          <caret line="742" selection-start-line="742" selection-end-line="742" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/assets/css/theme/blue.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14820">
+          <caret line="741" column="1" selection-start-line="741" selection-start-column="1" selection-end-line="741" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/view/right-sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="92" column="8" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/view/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/view/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="55" column="64" selection-start-line="55" selection-start-column="57" selection-end-line="55" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/view/header-script.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/view/.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2f133dc4-4ffd-4d4d-bf8d-d52392f218f5/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/functions/class-select.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/functions/queries.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/functions/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/view/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/view/header-script.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/view/footer-script.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/view/left-sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22025317" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
