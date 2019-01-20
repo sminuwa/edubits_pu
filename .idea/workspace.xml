@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="44a178c6-3475-4cdd-99f8-af1da2824370" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/css/radio_theme.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/about.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/application/about_color_2.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/application/about_color_3.html" beforeDir="false" />
@@ -118,20 +119,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3267">
-              <caret line="124" column="71" selection-start-line="124" selection-start-column="71" selection-end-line="124" selection-end-column="71" />
+            <state relative-caret-position="269">
+              <caret line="283" column="45" selection-start-line="283" selection-start-column="45" selection-end-line="283" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="769" column="12" lean-forward="true" selection-start-line="769" selection-start-column="12" selection-end-line="769" selection-end-column="12" />
+            <state relative-caret-position="374">
+              <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -144,6 +145,7 @@
         <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -207,7 +209,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/job/footer.php" />
         <option value="$PROJECT_DIR$/job/contact.php" />
         <option value="$PROJECT_DIR$/job/how-to-apply.php" />
         <option value="$PROJECT_DIR$/job/footer-script.php" />
@@ -256,8 +257,9 @@
         <option value="$PROJECT_DIR$/student/init.php" />
         <option value="$PROJECT_DIR$/student/view/left-sidebar.php" />
         <option value="$PROJECT_DIR$/application/login.php" />
-        <option value="$PROJECT_DIR$/application/index.php" />
+        <option value="$PROJECT_DIR$/application/css/radio_theme.scss" />
         <option value="$PROJECT_DIR$/application/css/style.css" />
+        <option value="$PROJECT_DIR$/application/index.php" />
       </list>
     </option>
   </component>
@@ -294,6 +296,12 @@
               <item name="edubits" type="462c0819:PsiDirectoryNode" />
               <item name="application" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="edubits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edubits" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -307,7 +315,7 @@
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../funtua" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -389,18 +397,18 @@
       <workItem from="1545293346004" duration="4386000" />
       <workItem from="1545434145100" duration="585000" />
       <workItem from="1545507060310" duration="2394000" />
-      <workItem from="1547664954260" duration="10989000" />
+      <workItem from="1547664954260" duration="16297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="280461000" />
+    <option name="totallyTimeSpent" value="285769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1911315" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1911315" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32876712" />
@@ -430,9 +438,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/job/images/job-category-04.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/job/images/job-category-05.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -667,17 +672,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/index.php">
+    <entry file="file://$PROJECT_DIR$/application/css/radio_theme.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3267">
-          <caret line="124" column="71" selection-start-line="124" selection-start-column="71" selection-end-line="124" selection-end-column="71" />
+        <state relative-caret-position="-463">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="769" column="12" lean-forward="true" selection-start-line="769" selection-start-column="12" selection-end-line="769" selection-end-column="12" />
+        <state relative-caret-position="374">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="283" column="45" selection-start-line="283" selection-start-column="45" selection-end-line="283" selection-end-column="45" />
         </state>
       </provider>
     </entry>

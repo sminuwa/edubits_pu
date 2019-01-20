@@ -7,16 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="EduBits Virtual School Manager">
     <meta name="author" content="Fokalbits">
-    <title>EduBits - Admission Apply</title>
+    <title>EduBits :: Application Portal</title>
 
     <!-- Favicons-->
     <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" type="image/x-icon" href="img/apple-touch-icon-57x57-precomposed.png">
     <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="img/apple-touch-icon-72x72-precomposed.png">
-    <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114"
-          href="img/apple-touch-icon-114x114-precomposed.png">
-    <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144"
-          href="img/apple-touch-icon-144x144-precomposed.png">
+    
 
     <!-- GOOGLE WEB FONT -->
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i" rel="stylesheet">
@@ -115,7 +112,7 @@
 
                             <div class="step">
                                 <h3 class="main_question">
-                                    <strong>1/3</strong>
+                                    <strong>1/4</strong>
                                     PUPIL'S PERSONAL DETAILS
                                 </h3>
                                 <div class="row">
@@ -159,11 +156,11 @@
                                     <div class="col-md-6">
                                         <div class="form-group radio_input">
                                             <label>
-                                                <input type="radio" value="Male" checked name="gender" class="icheck">
+                                                <input type="radio" value="Male" checked name="gender" id="color-3">
                                                 Male
                                             </label>
                                             <label>
-                                                <input type="radio" value="Female" name="gender" class="icheck">
+                                                <input type="radio" value="Female" name="gender" id="color-3">
                                                 Female
                                             </label>
                                         </div>
@@ -175,7 +172,67 @@
 
                             <div class="step">
                                 <h3 class="main_question">
-                                    <strong>2/3</strong>
+                                    <strong>2/4</strong>
+                                    PUPIL'S PERSONAL DETAILS
+                                </h3>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <input type="text" name="surname" class="form-control required"
+                                                   placeholder="Surname">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <input type="text" name="lastname" class="form-control required"
+                                                   placeholder="Last name">
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /row -->
+
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <input type="email" name="email" class="form-control required"
+                                                   placeholder="Your Email">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <input type="text" name="telephone" class="form-control"
+                                                   placeholder="Your Telephone">
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /row -->
+
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <input type="text" name="age" class="form-control" placeholder="Age">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group radio_input">
+                                            <label>
+                                                <input type="radio" value="Male" checked name="gender" id="color-3">
+                                                Male
+                                            </label>
+                                            <label>
+                                                <input type="radio" value="Female" name="gender" id="color-3">
+                                                Female
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /row -->
+                            </div>
+                            <!-- /step-->
+
+                            <div class="step">
+                                <h3 class="main_question">
+                                    <strong>3/4</strong>
                                     Please fill with additional info
                                 </h3>
                                 <div class="row">
@@ -223,7 +280,10 @@
                             <!-- /step-->
 
                             <div class="submit step">
-                                <h3 class="main_question"><strong>3/3</strong>Send an optional message</h3>
+                                <h3 class="main_question">
+                                    <strong>4/4</strong>
+                                    Send an optional message
+                                </h3>
                                 <div class="form-group">
                                     <textarea name="additional_message" class="form-control" style="height:150px;"
                                               placeholder="Hello world....write your messagere here!"></textarea>
